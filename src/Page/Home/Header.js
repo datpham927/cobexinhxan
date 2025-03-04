@@ -10,7 +10,7 @@ const Header = () => {
       </a>
       <div className="flex justify-center gap-2 mobile:w-full w-4/12 items-center bg-white rounded-xl">
         <img className='w-10 h-10 rounded-full' src="https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-1/481087146_122160749624311335_6183392406473433427_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=KnoQNZdR28oQ7kNvgG1zA3e&_nc_oc=AdhE5zrNo2FbBqU6KnIAUuJ0W1Ci1FO1ku-XC5FLF8Xi9eqOM0pY6jqGYZTzSqAX_1KqCCHwCFsvLZYgpuHy7zyH&_nc_zt=24&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=AZJwfLWH5OBfF_oCyiqzBgq&oh=00_AYBicQk0S4wTiNXVBxwgE5mpBt_JBKu5S8kNCANMNiV0RA&oe=67C7BEE5" />
-        <span>C𝑜̂ 𝐵é X𝑖nℎ 𝑋ắ𝑛</span>
+        <span>𝓒𝑜̂ 𝐵𝓮́ 𝓧𝑖𝓷ℎ 𝑋𝓪̆́𝑛</span>
       </div>
       <a className="flex mobile:hidden justify-end w-4/12" target="_blank" href='https://www.tiktok.com/@tamconcophat' >
         <span className='mobile:hidden'> {LogoTiktok} </span>
