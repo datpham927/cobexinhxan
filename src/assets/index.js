@@ -1,4 +1,3 @@
-export { default as logo } from "./logo.png"
 export { default as logoFb } from "./fb.png"
 export { default as logoTiktokMobile } from "./logotiktok.png"
 export const LogoTiktok = (
@@ -22,4 +21,3 @@ export const LogoTiktok = (
 
     </svg>
 )
- 
